@@ -1,6 +1,8 @@
-# Lab 8 - Starter
+# Lab 8
 
-## Questions
+### Name: Meshach Adoe (A15840310)
+
+### Questions
 *1. Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.*
 
 The automated tests should be configured within a Github action that runs whenever code is pushed. This is necessary to ensure that the behavior of the code remains as expected throughout the development process, and eliminates the need of manually running the tests every time the code is to be pushed to the repository.
